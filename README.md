@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=D476FF&height=200&section=header&text=Bienvenue%20sur%20mon%20GitHub!&fontSize=40&fontColor=ffffff"/>
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Welcome animation">
 </p>
 
 <p align="center">
