@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=E-Reboul&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-Reboul&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=E-Reboul&theme=tokyonight" alt="Contributions Productivity Card"/>
 </p>
 
 <h3 align="center">Technologies</h3>
