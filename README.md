@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=DE97FF&height=200&section=header&text=Bienvenue%20sur%20mon%20GitHub!&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=D476FF&height=200&section=header&text=Bienvenue%20sur%20mon%20GitHub!&fontSize=40&fontColor=ffffff"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=E-Reboul&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats"/>
-  <strong>Total Contributions (commits, PRs, issues)</strong>: <span style="font-size: 1.2em; color: #00ffff;"><strong>124</strong></span>
 </p>
+  <strong>Total Contributions (commits, PRs, issues)</strong>: <span style="font-size: 1.2em; color: #00ffff;"><strong>124</strong></span>
 
 <h3 align="center">Technologies</h3>
 <div align="center">
