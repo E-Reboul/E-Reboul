@@ -1,11 +1,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=E-Reboul&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-Reboul&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=E-Reboul&theme=dracula&margin-w=10&row=1" alt="Trophies"/>
 </p>
 
 <h3>🧠 Tech Stack</h3>
-<table>
+<table display="flex">
   <tr>
     <th>Languages</th>
     <th>Back-End</th>
@@ -59,7 +58,7 @@
   </tr>
 </table>
 
-<p align="center">
+<p display="flex">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=E-Reboul.visitor-badge" alt="Visitor Badge"/>
   <br/>
   <img src="https://img.shields.io/badge/Like-👍-green?style=flat-square" alt="Like badge"/>
