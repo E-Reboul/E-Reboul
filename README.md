@@ -1,5 +1,6 @@
 <p align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Welcome animation">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="100px" alt="Hi" /><br>
+  <b>Hi there, welcome to my GitHub!</b>
 </p>
 
 <p align="center">
