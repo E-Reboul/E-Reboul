@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E76A8&height=200&section=header&text=Bienvenue%20sur%20mon%20GitHub!&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=41FF70&height=200&section=header&text=Bienvenue%20sur%20mon%20GitHub!&fontSize=40&fontColor=ffffff"/>
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-Reboul&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
-<h3>🧠 Tech Stack</h3>
+<h3 align="center">Technologies</h3>
 <div align="center">
   <table>
     <tr>
