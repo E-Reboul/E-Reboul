@@ -5,7 +5,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=E-Reboul&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats"/>
 </p>
-  <strong>Total Contributions (commits, PRs, issues)</strong>: <span style="font-size: 1.2em; color: #00ffff;"><strong>124</strong></span>
+<p align="center">
+  <strong>Total Contributions (commits, PRs, issues)</strong>: <span style="font-size: 1.2em; color: #00ffff;"><strong>124</strong></span>  
+</p>
 
 <h3 align="center">Technologies</h3>
 <div align="center">
