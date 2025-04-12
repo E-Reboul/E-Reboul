@@ -1,11 +1,12 @@
-<!-- GitHub Statboard -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E76A8&height=200&section=header&text=Bienvenue%20sur%20mon%20GitHub!&fontSize=40&fontColor=ffffff"/>
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=E-Reboul&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-Reboul&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=E-Reboul&theme=dracula&margin-w=10&row=1" alt="Trophies"/>
 </p>
 
-<!-- 🧠 Stack Table -->
 <h3>🧠 Tech Stack</h3>
 <table>
   <tr>
@@ -70,9 +71,6 @@
   </tr>
 </table>
 
-<!-- 💖 Visitor Counter and Like -->
-<p align="center">
+<p align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=E-Reboul.visitor-badge" alt="Visitor Badge"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Like-👍-green?style=flat-square" alt="Like badge"/>
 </p>
