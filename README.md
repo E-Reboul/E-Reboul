@@ -19,8 +19,8 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="SQL"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="30" alt="JSON"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-plain.svg" height="30" alt="YAML"/>
+      <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/json.svg" height="30" alt="JSON"/>
+      <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/yaml.svg" height="30" alt="YAML"/>
     </td>
   </tr>
   <tr>
@@ -40,7 +40,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="Angular"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="TailwindCSS"/>
+      <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/tailwindcss.svg" height="30" alt="TailwindCSS"/>
     </td>
   </tr>
   <tr>
